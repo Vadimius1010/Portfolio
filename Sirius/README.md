@@ -19,8 +19,8 @@
 
 Данный проект посвящен изучению преступности на территории Российской Федерации и выполнен в рамках программы поиска и разработки научно-технологических проектов для школьников «Сириус.Лето: начни свой проект» и научно-практической конференции «Инженеры будущего» и был выполнен при поддержке МГУ им. М.В. Ломоносова. На работу был получен отзыв от профессора кафедры математических методов прогнозирования ВМК МГУ Дьяконова А.Г., позднее по данной работе была опубликована научная статья
 
--[Ссылка на загрузку полного текста](https://github.com/Vadimius1010/Portfolio/blob/main/Sirius/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B8%D0%BA%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%B0_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.docx?raw=true)
+- [Ссылка на загрузку полного текста](https://github.com/Vadimius1010/Portfolio/blob/main/Sirius/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B8%D0%BA%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%B0_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.docx?raw=true)
 
-- [Ссылка на научную](https://elibrary.ru/item.asp?id=48642724&pff=1)
+- [Ссылка на статью](https://elibrary.ru/item.asp?id=48642724&pff=1)
 
 - [Ссылка на отзыв](https://github.com/Vadimius1010/Portfolio/blob/main/Sirius/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2_%D0%94%D1%8C%D1%8F%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2.pdf)
